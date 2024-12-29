@@ -1,6 +1,6 @@
 <center>
 
-# Tech Challenge 1 - Pós Tech FIAP - FSDT - Grupo 01
+# Tech Challenge Outsystem - Pós Tech FIAP - FSDT Grupo 1
 
 #### Video de Apresentação do Projeto.
 
